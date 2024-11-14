@@ -1,0 +1,33 @@
+/**
+ * @name Pywal Discord
+ * @author Original: https://github.com/FilipLitwora/pywal-discord
+ * @version 1.0.0
+ * @description Theme generated using pywal
+*/
+
+:root {
+    --background-primary: #0D0E11;
+    --background-secondary: #0D0E11;
+    --background-secondary-alt: #0D0E11;
+    --background-tertiary: #0D0E11;
+    --background-accent: #5B5A5F;
+    --background-floating: #0D0E11;
+    --background-modifier-hover: rgba(91,90,95, 0.3);
+    --background-modifier-active: rgba(146,112,95, 0.3);
+    --background-modifier-selected: rgba(153,137,126, 0.3);
+    --background-modifier-accent: #5B5A5F;
+    --channeltextarea-background: #0D0E11;
+    --text-normal: #e9e5df;
+    --text-muted: #a3a09c;
+    --text-link: #6A7389;
+    --button-background: #5B5A5F;
+    --button-background-hover: #92705F;
+    --button-background-active: #99897E;
+    --button-accent: #5B5A5F;
+    --button-accent-hover: #92705F;
+    --button-accent-active: #99897E;
+    --interactive-normal: #e9e5df;
+    --interactive-hover: #5B5A5F;
+    --interactive-active: #92705F;
+    --interactive-muted: #a3a09c;
+}
